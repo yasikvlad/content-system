@@ -1,0 +1,9 @@
+{
+  "name": "content-system",
+  "version": "0.3.0",
+  "description": "Контент-система с Notion-интеграцией: автоматическая генерация вирусных Reels, постов, карусели и другого контента из исходного материала. Сохраняет всё в Notion-базы (Исходники → Контент RU / Content EN). Включает 10 вирусных форматов с референсами, систему байтов для Telegram, полный контент-конвейер.",
+  "author": {
+    "name": "Vlad Yasko"
+  },
+  "keywords": ["content", "reels", "marketing", "viral", "telegram", "notion"]
+}
